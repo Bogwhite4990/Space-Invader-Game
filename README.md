@@ -1,5 +1,8 @@
 # Alien Shooter
 
+![image](https://github.com/Bogwhite4990/Space-Invader-Game/assets/103454208/75b14ba5-f61e-4607-8fa7-f8a5e9b72a41)
+
+
 A simple alien shooter game built with Pygame.
 
 ## Installation
